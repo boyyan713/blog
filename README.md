@@ -36,3 +36,7 @@ you will see output similar to the following
 
     INFO Start processing INFO Hexo is running at http://localhost:xxxx . Press Ctrl+C to stop.
 
+
+hexo clean && hexo deploy
+
+https://hexo.io/docs/github-pages
