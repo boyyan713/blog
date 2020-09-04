@@ -9,7 +9,7 @@ description: Boyang Yan's tech blog
 keywords:
 author: Boyang Yan
 language: en
-timezone: ''
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
