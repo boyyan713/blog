@@ -1,0 +1,20 @@
+@startuml
+node "Gathering Data" {
+component [Internet of Things sensors]
+component [downloading open source data sets]
+component [constructing a data lake from assorted files, logs, or media]
+}
+
+node "Data pre-processing (Datastore)" {
+
+}
+
+node "Building datasets" {
+component [Training Set - 70%] as TrainingData
+component [Validation Set - 20%] as ValidationData
+component [Test Set - 10%] as TestData
+
+
+}
+
+@enduml
